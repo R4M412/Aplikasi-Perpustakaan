@@ -1,31 +1,37 @@
 # Tugas Konversi Mata Uang - Pemrograman II
 
-## Anggota Kelompok 6:
-### NANDI MULYANA
-### PUNIKO DHINO SAE
-### RAFI BASTHARA
-### RAIHAN DASA ARI MUKTI
-### RAMA PRANATA
+## Anggota Kelompok 6
+26. NANDI MULYANA  
+27. PUNIKO DHINO SAE  
+28. RAFI BASTHARA  
+29. RAIHAN DASA ARI MUKTI  
+30. RAMA PRANATA  
 
+---
 
-# Deskripsi Program
-Deskripsi:
-Ini adalah Aplikasi Mini perpustakaan berbasis console dengan OOP.
-Dengan Fitur:
-~Input data buku: judul, penulis, stok
-~Input peminjam: nama, NIM
-~Fungsi pinjam dan kembali buku
-~Laporan buku dipinjam
+## Deskripsi Program
 
+Program ini merupakan **Aplikasi Mini Perpustakaan** berbasis **console** dengan pendekatan **Object-Oriented Programming (OOP)**.  
+Fitur-fitur utama dalam aplikasi ini meliputi:
 
-# Cara Menjalankan
-Buka folder project di NetBeans
-Masuk Folder src dan Jalankan AplikasiPerpustakaan.java
-1. Tambah Buku
-2. Daftar Buku Tersedia
-3. Daftar Peminjam
-4. Pinjam Buku
-5. Kembalikan Buku
-6. Laporan Peminjaman
-0. Keluar
-Jalankan salah satu menu diatas
+- Input data buku: judul, penulis, stok  
+- Input data peminjam: nama, NIM  
+- Fungsi peminjaman dan pengembalian buku  
+- Laporan peminjaman buku  
+
+---
+
+## Cara Menjalankan
+
+1. Buka folder project di **NetBeans**  
+2. Masuk ke folder `src`  
+3. Jalankan file `AplikasiPerpustakaan.java`  
+4. Pilih menu yang tersedia berikut ini:
+
+  Tambah Buku
+Daftar Buku Tersedia
+Daftar Peminjam
+Pinjam Buku
+Kembalikan Buku
+Laporan Peminjaman
+Keluar
